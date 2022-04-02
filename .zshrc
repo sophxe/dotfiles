@@ -14,3 +14,5 @@ export QT_QPA_PLATFORMTHEME=qt5ct
 
 
 alias shut="shutdown now"
+alias la="ls -al"
+alias ll="ls -l"
