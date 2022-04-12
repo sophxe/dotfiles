@@ -10,7 +10,7 @@ configuration {
     font: "JetBrains Mono NL Regular 10";
     modi: "drun,window,run";
     show-icons: true;
-    icon-theme: "BeautyLine";
+    icon-theme: "Papirus Colors Dark";
 }
 
 @theme "/dev/null"
