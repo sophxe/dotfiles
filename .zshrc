@@ -19,3 +19,4 @@ alias ll="ls -l"
 
 #remove autosuggestions
 ZSH_AUTOSUGGEST_HISTORY_IGNORE=*
+

@@ -31,6 +31,7 @@
  Plug 'terryma/vim-multiple-cursors'
  Plug 'LunarWatcher/auto-pairs'
  Plug 'ryanoasis/vim-devicons'
+ Plug 'Valloric/YouCompleteMe', { 'do': '.install.py' }
  call plug#end()
 
  "Gitgutter sign column background colour
